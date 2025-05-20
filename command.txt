@@ -1,2 +1,2 @@
-This is introduction
+This is command
 cd is used is used to move intoanother directory
